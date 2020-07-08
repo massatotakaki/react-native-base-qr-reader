@@ -1,0 +1,6 @@
+module Pods_StoqueQr {
+  umbrella header "Pods-StoqueQr-umbrella.h"
+
+  export *
+  module * { export * }
+}
